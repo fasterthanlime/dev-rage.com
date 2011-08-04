@@ -7,10 +7,11 @@
 <head>
 <title>/dev/rage: TITLEGOESHERE</title>
 <link rel=stylesheet href="css/main.css">
+<script src="js/keyboard.js"></script>
 </head>
 
 <body>
-<h1><a href="PREVGOESHERE">&lArr;</a> /dev/rage <a href="NEXTGOESHERE">&rArr;</a></h1>
+<h1><a id="prev-link" href="PREVGOESHERE">&lArr;</a> /dev/rage <a id="next-link" href="NEXTGOESHERE">&rArr;</a></h1>
 <h2>NUMBERGOESHERE - TITLEGOESHERE</h2>
 CONTENTGOESHERE
 </body>
