@@ -41,7 +41,7 @@ footer {
   display: none;
 }
 
-a {
+a, h1 a {
   color: #222;
   text-decoration: none;
 }
