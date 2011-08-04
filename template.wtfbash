@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+<!-- Hello there :) Did you know this is a bash-powered template? -->
+
 <html>
 <head>
 <title>/dev/rage: TITLEGOESHERE</title>
@@ -9,9 +12,5 @@
 <h1>/dev/rage</h1>
 <h2>NUMBERGOESHERE - TITLEGOESHERE</h2>
 CONTENTGOESHERE
-<div id="preload">
-PREVIOUSCONTENTGOESHERE
-NEXTCONTENTGOESHERE
-</div>
 </body>
 </html>
