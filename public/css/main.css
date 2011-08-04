@@ -35,3 +35,16 @@ body {
 #preload {
   display: none;
 }
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a[href="#"] {
+  color: #fff;
+}
