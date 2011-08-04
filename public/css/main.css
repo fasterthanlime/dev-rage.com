@@ -32,6 +32,11 @@ body {
   margin-right: auto;
 }
 
+footer {
+  margin-top: 2em;
+  text-align: center;
+}
+
 #preload {
   display: none;
 }
@@ -47,4 +52,9 @@ a:hover {
 
 a[href="#"] {
   color: #fff;
+}
+
+#strip {
+  width: 640px;
+  height: 480px;
 }
